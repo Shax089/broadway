@@ -13,9 +13,14 @@ h1 {
 
 h2  {
   color: white;
-  font-size: 42px;
-  font-weight: 300;
+  font-size: 23px;
+  font-weight: bold;
 }
+#midi {
+  background-image: "./resources/images/the-flatiron-building.png";
+}
+
+
 h3 {
   color: gray;
   font-size: 21px;
