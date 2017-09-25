@@ -8,7 +8,7 @@ h1 {
   font-weight: bold;
 }
 #header {
-  background-image: "./resources/images/the-flatiron-building.png";
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 h2  {
@@ -17,7 +17,7 @@ h2  {
   font-weight: bold;
 }
 #midi {
-  background-image: "./resources/images/the-flatiron-building.png";
+  background-image: url("./resources/images/the-flatiron-building.png");
 }
 
 
@@ -26,9 +26,10 @@ h3 {
   font-size: 21px;
 }
 #footer {
-    color: gray;
-    font-size: 21px;
-    text-align: right;
+    background-color: dimgray;
+    font-size: 11px;
+    text-align: left;
+    color: white;
 }
 img.midi {
   align-content: center;
